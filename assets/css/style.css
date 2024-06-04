@@ -38,3 +38,20 @@ header {
 .navigation a:hover {
     color: #03e2ff;
 }
+
+section {
+    padding: 100px 200px;
+    background-color: #111111;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/wp8778419-dark-code-wallpapers.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #f0f0f0;
+}
