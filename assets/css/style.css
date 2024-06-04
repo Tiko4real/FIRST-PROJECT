@@ -17,3 +17,11 @@ header {
     align-items: center;
     padding: 10px 50px;
 }
+
+.logo {
+    text-decoration: none;
+    color: #03e2ff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
