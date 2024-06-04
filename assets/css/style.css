@@ -55,3 +55,23 @@ section {
     background-attachment: fixed;
     color: #f0f0f0;
 }
+
+.main h2 {
+    font-size: 1.5em;
+}
+
+.main h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    color: #03e2ff;
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+.main h3 {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
