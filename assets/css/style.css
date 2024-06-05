@@ -430,7 +430,7 @@ textarea {
     color: #000000;
 }
 
-/* Specific flag icons */
+
 .lang-menu ul li a#fr:before {
     background-image: url("https://flagsapi.com/FR/flat/32.png");
 }
