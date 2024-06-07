@@ -6,7 +6,7 @@ Easily navigate throughout the site.
 Find contact information.
 Frequent user goals
 Check for new projects or updates in the career section.
-Access detailed information about Tiko's professional achievements.
+Access detailed information about my professional achievements.
 Features
 The website targets potential employers, collaborators, and anyone interested in my professional journey.
 Users can navigate to different sections to learn about my skills and contact details.
