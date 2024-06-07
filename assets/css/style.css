@@ -31,8 +31,13 @@ header {
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
-    padding-left: 30px;
-    margin: 15px;
+    padding: 15px 30px;
+    margin: 0;
+}
+
+.navigation {
+    display: flex;
+    align-items: center
 }
 
 .navigation a:hover {
@@ -244,12 +249,8 @@ section {
         padding: 12px 20px;
     }
 
-    .navigation {
-        flex-direction: column;
-    }
-
     .navigation a {
-        padding: 7px 0
+        padding: 7px 5px
     }
 
     .title {
@@ -283,6 +284,34 @@ section {
 
 }
 
+
+@media (max-width:575px) {
+    header {
+        padding: 0px 5px;
+        margin: 0px;
+    }
+
+.navigation a {
+    padding: 0;
+    font-size: 0.5em;
+    margin: 0px 6px;
+}
+
+.selected-lang {
+    font-size: 0.5em;
+}
+
+.logo {
+    font-size: 0.7em;
+    padding: 0;
+}
+
+.content .info p {
+    font-size: 0.8em;
+
+}
+
+}
 
 
 @media (max-width: 100%) {
@@ -365,21 +394,25 @@ textarea {
     display: inline-block;
 }
 
+
+
 .selected-lang {
     cursor: pointer;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    width: 100px;
+    padding-left: 10px;
+    margin: 15px;
     color: #f8f8f8;
+    line-height: 1.1em;
 }
+
 
 .selected-lang:before {
     content: "";
     display: block;
     width: 32px;
     height: 32px;
-    
+
     background-size: cover;
     margin-right: 10px;
 }
