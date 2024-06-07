@@ -54,7 +54,8 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(file:///C:/Users/oppar/Desktop/FIRST%20PROJECT/images/dark-background.png);
+    background-color: #000000;
+    background-size: cover;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
