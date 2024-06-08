@@ -214,7 +214,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ![Thanks page lighthouse report](/assets/images/thanks.html-desktop-lighthouse-report.png)
 </details>
 <details>
-<summary>Sign Up
+<summary>
 </summary>
 
 
