@@ -312,7 +312,78 @@ section {
 
 }
 
+.card:hover {
+    transform:none;
 }
+
+.projects-card:hover {
+    transform: none;
+}
+
+
+.main h2 span {
+    font-size: 1.3em;
+}
+
+.main h2 {
+    font-size: 0.7em;
+}
+
+.main h3 {
+    font-size: 1.1em;
+}
+
+.main-btn {
+    font-size: 0.6em;
+}
+
+.social-icons a {
+    
+    font-size: 1.5em;
+    
+}
+
+}
+
+@media (max-width:350px) {
+
+.projects-card {
+    border: none
+    min-height: 10em;
+    width: 13em;
+    font-size: 0.7em;
+}
+.main h2 span {
+    font-size: 1.2em;
+}
+
+.main h2 {
+    font-size: 0.5em;
+}
+
+.main h3 {
+    font-size: 0.7em;
+}
+
+.info h3 {
+   
+    font-size: 0.8em;
+    font-weight: 700;
+    margin: 2px;
+}
+
+.main-btn {
+    font-size: 0.5em;
+}
+
+.social-icons a {
+    
+    font-size: 1.2em;
+    
+}
+
+}
+
 
 
 @media (max-width: 100%) {
@@ -387,7 +458,7 @@ textarea {
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
-    width: 25%;
+    width: 35%;
 }
 
 .lang-menu {
