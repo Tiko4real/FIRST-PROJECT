@@ -157,16 +157,16 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 
 
-![Websites validation result](/assets/images/index.html-check.png)
+![Website validation result](/assets/images/index.html-check.png)
 </details>
 <details>
-<summary>index.html
+<summary>thanks.html
 </summary>
 
 ![Thanks page validation](/assets/images/thanks.html-check.png)
 </details>
 <details>
-<summary>thanks.html
+<summary>style.css
 </summary>
 
 
