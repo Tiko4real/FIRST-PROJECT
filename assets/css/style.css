@@ -353,7 +353,7 @@ section {
 @media (max-width:350px) {
 
 .projects-card {
-    border: none
+    border: none;
     min-height: 10em;
     width: 13em;
     font-size: 0.7em;
