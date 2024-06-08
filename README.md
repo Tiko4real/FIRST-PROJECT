@@ -1,5 +1,4 @@
-Tiko's Portfolio
-Tiko is a Full Stack Developer showcasing his skills and career journey through this portfolio website. The site is designed to be informative, user-friendly, and engaging, providing visitors with a comprehensive look at Tiko's competencies, projects, and contact information.
+ This website is my Portfolio. The website is showcasing my skills and career journey. The site is designed to be informative, user-friendly, and engaging, providing visitors with a comprehensive look at my competencies, projects, and contact information.
 
 Features
 Easily navigate throughout the site.
@@ -50,6 +49,8 @@ Primary colors are black and shades of blue for a modern and professional look.
 Typography
 
 Main font used is Poppins, with sans-serif as the fallback.
+
+
 Wireframes
 
 Designed using pen and paper for simplicity and clarity.
@@ -58,6 +59,8 @@ Designed using pen and paper for simplicity and clarity.
 Technologies Used
 HTML5
 CSS3
+
+
 Frameworks, Libraries & Programs Used
 VS code - To write the code.
 Git - For version control.
