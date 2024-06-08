@@ -1,4 +1,4 @@
- This website is my Portfolio. The website is showcasing my skills and career journey. The site is designed to be informative, user-friendly, and engaging, providing visitors with a comprehensive look at my competencies, projects, and contact information.
+ This website is my Portfolio. The website is showcasing my skills and career journey. The site is designed to be informative, user-friendly, and engaging, providing visitors with a comprehensive look at my competencies, career, and contact information.
 
 Features
 Easily navigate throughout the site.
